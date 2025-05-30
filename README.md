@@ -27,4 +27,7 @@ Today I built a playable version of Wordle in Excel, using animal names as the s
 📂 Files on GitHub: 🔗 https://github.com/elem86/day12
 
 
+#Excel #Wordle #VBA #MiniGame #DataFun #ExcelChallenge #OneProjectADay #Day12 #OpenToWork
+
+
 ![day12](https://github.com/user-attachments/assets/83631d33-f25e-4372-a773-d58dff6cb493)
